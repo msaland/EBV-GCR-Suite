@@ -1,0 +1,16 @@
+bibentry(bibtype="article",
+	author=c(
+	    person("Daniele","Mercatelli"),
+	    person("Gonzalo","Lopez-Garcia"),
+		person(c("Federico","M"), "Giorgi")
+	),
+	title = "corto: a lightweight R package for gene network inference and master regulator analysis",
+	journal = "Bioinformatics",
+	year = 2020,
+	month = 06,
+	volume = 36,
+	number = 12,
+	pages = "3916-3917",
+	doi= "10.1093/bioinformatics/btaa223",
+	textVersion = "Mercatelli, D., Lopez-Garcia G. and Giorgi, F.M. (2020) corto: a lightweight R package for gene network inference and master regulator analysis"
+)

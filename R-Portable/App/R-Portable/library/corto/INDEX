@@ -1,0 +1,26 @@
+barplot2                barplot2 - Bar plot with error bars
+corto                   Calculate a regulon from a data matrix
+fcor                    A fast correlation function
+fisherp                 Fisher integration of p-values
+gsea                    GSEA
+gsea2                   2-way GSEA GSEA Gene set enrichment analysis of
+                        two complementary gene sets using gsea
+kmgformat               kmgformat - Nice Formatting of Numbers
+mra                     Perform Master Regulator Analysis (mra).
+mraplot                 Plot a master regulator analysis
+p2r                     p2r Convert a P-value to the corresponding
+                        Correlation Coefficient
+p2z                     p2z
+plot_gsea               Plot GSEA results
+plot_gsea2              Plot 2-way GSEA results
+r2p                     r2p Convert Correlation Coefficient to P-value
+scatter                 scatter - XY scatter plot with extra
+                        information
+scinot                  scinot - Convert a number to a scientific
+                        notation expression
+slice                   Slice
+ssgsea                  ssGSEA
+stouffer                Stouffer integration of Z scores
+val2col                 val2col - Convert a numeric vector into colors
+wstouffer               Weighted Stouffer integration of Z scores
+z2p                     z2p
