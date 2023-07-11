@@ -6,7 +6,7 @@ We also offer a web version of this tool suite at https://mymryklab.ca/EBV-GCR/e
 
 ## Citing
 
-TBD
+Salnikov MY, Wang E, Christensen E, Prusinkiewicz MA, Shooshtari P, Mymryk JS. The EBV Gastric Cancer Resource (EBV-GCR): A Suite of Tools for Investigating EBV-Associated Human Gastric Carcinogenesis. Viruses. 2023 Mar 27;15(4):853. doi: 10.3390/v15040853.
 
 ## Installation
 
